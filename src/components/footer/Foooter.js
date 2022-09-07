@@ -102,7 +102,7 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
             </p>
             <hr/>
             <a
-              href="https://www.facebook.com/Adıyaman-Blue-Liva-G%C3%BCzellik-Salonu-101863342555865"
+              href="https://www.facebook.com/"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left" }}
@@ -110,7 +110,7 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
               <FacebookIcon className="icon" style={{fontSize:"24px"}}/>
             </a>
             <a
-              href="https://www.instagram.com/blue_liva/"
+              href="https://www.instagram.com/"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -118,7 +118,7 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
               <InstagramIcon className="icon" style={{fontSize:"24px",color:"purple"}}/>
             </a>
             <a
-              href="https://wa.me/+905526350125"
+              href="https://wa.me/+905061712702"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -126,7 +126,7 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
               <WhatsAppIcon className="icon" style={{fontSize:"24px",color:"lightgreen"}}/>
             </a>
             <a
-              href="tel: +905526350125"
+              href="tel: +905061712702"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
@@ -145,23 +145,23 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
             <br/>
             <p style={{ fontSize: "14px", textAlign: "left" }}>
               {" "}
-              <a href="mailto:blueliva25@gmail.com">
+              <a href="mailto:blue.liva.adiyaman@gmail.com">
                 <EmailIcon style={{fontSize:"24px"}}/>
               </a>
               &nbsp;
-              blueliva25@gmail.com  
+              blue.liva.adiyaman@gmail.com  
             </p>
             <p style={{  fontSize: "14px", textAlign: "left" }}>
               {" "}
               <a
-                href="tel: +905075994155"
+                href="tel: +905061712702"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <SettingsPhoneIcon style={{fontSize:"24px"}}/>
               </a>
               &nbsp;
-              0552 635 01 25  <FontAwesomeIcon icon="coffee" size="lg" />
+              0506 171 27 02  <FontAwesomeIcon icon="coffee" size="lg" />
             </p>
             <p style={{  fontSize: "14px", textAlign: "left" }}>
               
@@ -173,7 +173,7 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
                 <HomeIcon style={{fontSize:"24px"}}/>
               </a>
               &nbsp;
-              Muratpaşa Mah. Erzincan Kapı Cad. No:99 Kapı No:13 <br/> Yakutiye / Adıyaman{" "}
+              Hoca Ömer Mah. 215 Sok. No:2/1A Kat:3 Daire:5 <br/> Merkez / Adıyaman{" "}
 
              
             </p>
@@ -205,13 +205,13 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
           </div>
 
           <div className="roof-phone">
-              <a href="tel: +905526350125" className="phone_float" target="_blank" rel="noopener noreferrer">
+              <a href="tel: +905061712702" className="phone_float" target="_blank" rel="noopener noreferrer">
                   <PhoneIcon className="phone-icon"/>  
               </a>
           </div>
 
           <div className="roof-whatsapp">
-              <a href="https://wa.me/+905526350125" className="whatsapp_float" target="_blank" rel="noopener noreferrer">
+              <a href="https://wa.me/+905061712702" className="whatsapp_float" target="_blank" rel="noopener noreferrer">
                   <WhatsAppIcon className="whatsapp-icon"/>
               </a>
           </div>
