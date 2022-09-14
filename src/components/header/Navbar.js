@@ -7,11 +7,9 @@ import BusinessIcon from '@material-ui/icons/Business';
 import CameraAltIcon from '@material-ui/icons/CameraAlt';
 import ContactMailIcon from '@material-ui/icons/ContactMail';
 import HomeIcon from '@material-ui/icons/Home';
-import CastForEducationIcon from '@material-ui/icons/CastForEducation';
 import ContactlessIcon from '@material-ui/icons/Contactless';
 import CategoryIcon from '@material-ui/icons/Category';
-import Logo2 from "./bLLogo4.png";
-import Logo3 from "./1-1.png";
+
 import Logo4 from "./2-2.png";
 
 
