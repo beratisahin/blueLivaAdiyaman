@@ -173,7 +173,7 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
                 <HomeIcon style={{fontSize:"24px"}}/>
               </a>
               &nbsp;
-              Hoca Ömer Mah. 215 Sok. No:2/1A Kat:3 Daire:5 <br/> Merkez / Adıyaman{" "}
+              Hoca Ömer Mah. 215 Sok. Şatoser İş Merkezi No:4 Kat:3 Daire:5 <br/> Merkez / Adıyaman{" "}
 
              
             </p>
