@@ -13,6 +13,7 @@ export default class Taslak extends Component {
           <img
             src={taslakphoto}
             title="Adıyaman Blue Liva Güzellik Merkezi"
+            loading="lazy"
             style={{ width: "100%", height: "30rem" }}
           ></img>
           <div class="details">
