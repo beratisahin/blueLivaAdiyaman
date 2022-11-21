@@ -110,7 +110,7 @@ Adıyaman Blue Liva Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikle
               <FacebookIcon className="icon" style={{fontSize:"24px"}}/>
             </a>
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/blue.liva.adiyaman"
               target="_blank"
               rel="noopener noreferrer"
               style={{ float: "left", textIndent: "10px" }}
